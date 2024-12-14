@@ -8,3 +8,7 @@
 #include "glm/gtx/hash.hpp"
 
 #include <print>
+#include <string>
+#include <fstream>
+#include <sstream>
+#include <iostream>
